@@ -5,7 +5,7 @@ module.exports = {
   ownerLid: "", // ignore this!
   prefix: ".",
   botName: "AzahraBot",
-  version: "4.15.37",
+  version: "4.15.38",
   welcome: true,
   commandMode: "public",
   maxStoreMessages: 200,
