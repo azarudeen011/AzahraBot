@@ -71,6 +71,8 @@ baileys_store.json
 tmp*/
 tmp_update/
 temp/
+data/react_stickers/
+database/react_stickers/
 
 # Replit / runtime specific
 .local/
