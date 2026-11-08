@@ -5,9 +5,11 @@ module.exports = {
   ownerLid: "", // ignore this!
   prefix: ".",
   botName: "AzahraBot",
-  version: "5.3.8",
+  version: "5.4.7",
   welcome: true,
   commandMode: "public",
-  maxStoreMessages: 50,
-  storeWriteInterval: 45000
+  maxStoreMessages: 200,
+  storeWriteInterval: 10000,
+  githubToken: "" // GitHub Personal Access Token (for private repo .update, or pass via .update <token>)
 };
+

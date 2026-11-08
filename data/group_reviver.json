@@ -1,0 +1,10 @@
+{
+  "enabledGroups": {
+    "12345@g.us": {
+      "enabled": true,
+      "intervalHours": 6,
+      "mode": "text"
+    }
+  },
+  "lastRevivedTime": {}
+}
